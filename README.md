@@ -9,7 +9,6 @@ Class: L4AC
 
 ## Endpoint
 
-This is the design of my Todo app's API endpoint
+The design of my Todo app's API endpoint are on the "Todo App API Endpoint" files
 
-
-
+You can view it as a pdf or a xlsx file
